@@ -57,7 +57,7 @@ Cada projeto representa uma oportunidade de colocar em prática conhecimentos de
 
 📚 Atualmente estudando
 
-C · Python · JavaScript · HTML · CSS · Git · Figma
+C · Python · HTML · CSS · Git · Figma
 
 Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para transformar ideias em aplicações funcionais.
 
