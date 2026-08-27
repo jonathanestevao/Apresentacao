@@ -1,82 +1,87 @@
-Jonathan Estevão
+👋 Olá, eu sou Jonathan Estevão
 
-Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
+💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com interesse em desenvolvimento de software, tecnologia e criação de soluções digitais.
+«Transformando ideias em código e aprendizado em soluções.»
 
-Atualmente, estou desenvolvendo minha base em programação e desenvolvimento web, buscando transformar conhecimentos acadêmicos em projetos práticos e evoluir continuamente como profissional da área de tecnologia.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou construindo minha experiência através de projetos acadêmicos e pessoais, explorando diferentes áreas da programação e do desenvolvimento web.
 
-Sobre mim
+---
 
-- 🎓 Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvimento de software
-- 🌐 Desenvolvimento Front-end
-- 🧠 Algoritmos e lógica de programação
-- 🎨 Design e prototipagem de interfaces
-- 📚 Aprendizado contínuo
+🚀 Sobre mim
 
-Tecnologias
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+💡 Interessado em programação, desenvolvimento web e tecnologia
+
+🧠 Sempre buscando aprimorar minha lógica e resolução de problemas
+
+🛠️ Transformando conhecimentos em projetos práticos
+
+📚 Em constante evolução e aprendizado
+
+---
+
+🧰 Tecnologias
 
 Linguagens
 
-- C
-- Python
-- JavaScript
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+</p>Desenvolvimento Web
 
-Desenvolvimento Web
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+</p>Ferramentas & Design
 
-- HTML5
-- CSS3
-- JavaScript
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
+</p>---
 
-Design
+📂 Projetos
 
-- Figma
-- FigJam
-- Miro
+Meu GitHub reúne projetos desenvolvidos durante minha formação e estudos independentes.
 
-Ferramentas
+Cada projeto representa uma oportunidade de colocar em prática conhecimentos de:
 
-- Git
-- GitHub
-- Visual Studio Code
-
-Metodologias
-
-- Scrum
-- Kanban
-- Metodologias Ágeis
-
-Projetos
-
-Neste perfil, compartilho projetos desenvolvidos durante minha formação acadêmica e estudos independentes.
-
-Os projetos têm como objetivo colocar em prática conhecimentos de:
-
-- Desenvolvimento web
+- Desenvolvimento Web
 - Programação
 - Algoritmos e lógica
 - Design de interfaces
 - Engenharia de software
 
-Atualmente estudando
+---
 
-- Desenvolvimento Front-end
-- JavaScript
-- Python
-- Linguagem C
-- Git e GitHub
-- UI/UX
-- Boas práticas de desenvolvimento
+📚 Atualmente estudando
 
-Objetivo profissional
+C · Python · JavaScript · HTML · CSS · Git · Figma
 
-Busco construir uma carreira sólida na área de tecnologia, aprimorando continuamente minhas habilidades em programação e desenvolvimento de software e adquirindo experiência por meio de projetos e desafios práticos.
+Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para transformar ideias em aplicações funcionais.
 
-Contatos:
+---
+
+🎯 Meu objetivo
+
+Construir uma carreira na área de tecnologia, evoluindo como desenvolvedor e criando soluções que unam código, criatividade e tecnologia.
+
+---
+
+🌐 Onde me encontrar
 
 LinkedIn:
 www.linkedin.com/in/jonathanestevao
 
 GitHub:
-www.github.com/jonathanestevao
+github.com/TrasherSung
+
+---
+
+<p align="center">
+  <strong>💻 Code. Learn. Create. Evolve.</strong>
+</p>
