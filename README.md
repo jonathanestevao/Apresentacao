@@ -73,10 +73,10 @@ Objetivo profissional
 
 Busco construir uma carreira sólida na área de tecnologia, aprimorando continuamente minhas habilidades em programação e desenvolvimento de software e adquirindo experiência por meio de projetos e desafios práticos.
 
-Contato
+Contatos:
 
 LinkedIn:
 www.linkedin.com/in/jonathanestevao
 
 GitHub:
-github.com/TrasherSung
+www.github.com/TrasherSung
