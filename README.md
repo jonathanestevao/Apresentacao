@@ -1,102 +1,84 @@
-<div align="center">JONATHAN ESTEVÃO
+  # Jonathan Estevão
 
-"Estudante de Análise e Desenvolvimento de Sistemas"
+💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-Tecnologia • Back-End • Desenvolvimento de Software
-
-<br>""GitHub" (https://img.shields.io/badge/GitHub-TrasherSung-181717?style=flat-square&logo=github&logoColor=white)" (https://github.com/TrasherSung)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Jonathan%20Estevão-181717?style=flat-square&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/jonathanestevao/)
-
-</div>---
-
-"> Sobre mim"
-
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), interessado em tecnologia e desenvolvimento de software.
-
-Atualmente, estou construindo minha experiência por meio de projetos acadêmicos e pessoais, explorando diferentes áreas da programação e do desenvolvimento de sistemas.
-
-Tenho como objetivo transformar conhecimento em projetos práticos e evoluir constantemente minhas habilidades como desenvolvedor.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), gosto de tecnologia e desenvolvimento de software. Atualmente, estou construindo minha experiência através de projetos acadêmicos e pessoais, explorando diferentes áreas da programação e de desenvolvimento web.
 
 ---
 
-"> Perfil"
+  Sobre mim:
 
-| 
-🎓 Formação| Análise e Desenvolvimento de Sistemas
-💻 Área de interesse| Desenvolvimento de Software
-⚙️ Foco atual| Back-End & Programação
-🧠 Interesse| Lógica e resolução de problemas
-🚀 Objetivo| Evoluir como desenvolvedor
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+💡 Interessado em programação, Back-End e tecnologia
+
+🧠 Sempre buscando aprimorar minha lógica e resolução de problemas
+
+🛠️ Transformando conhecimentos em projetos práticos
+
+📚 Em constante evolução e aprendizado
 
 ---
 
-"> Tecnologias"
+🧰 Tecnologias
 
 Linguagens
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" title="C"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
-</p>Web
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+</p>Desenvolvimento Web
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS3"/>
-</p>Ferramentas
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+</p>Ferramentas & Design
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="Visual Studio Code"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
 </p>---
 
-"> O que estou fazendo atualmente"
+📂 Projetos
 
-[████████████████████░░]  Aprendendo
-[██████████████████░░░░]  Desenvolvendo
-[████████████████░░░░░░]  Explorando
+Meu GitHub reúne projetos desenvolvidos durante minha formação e estudos independentes.
 
-📚 Estudando programação e desenvolvimento de software.
+Cada projeto representa uma oportunidade de colocar em prática conhecimentos de:
 
-⚙️ Desenvolvendo projetos para colocar meus conhecimentos em prática.
-
-🧠 Aprimorando lógica, estrutura de código e resolução de problemas.
-
----
-
-"> Projetos"
-
-Atualmente, estou desenvolvendo projetos acadêmicos e pessoais para aplicar na prática os conhecimentos adquiridos durante minha formação.
-
-┌─────────────────────────────────────────┐
-│                                         │
-│   🚧  PROJETOS EM DESENVOLVIMENTO      │
-│                                         │
-│   Novos projetos serão adicionados      │
-│   conforme forem desenvolvidos.         │
-│                                         │
-└─────────────────────────────────────────┘
+- Desenvolvimento Web
+- Programação
+- Algoritmos e lógica
+- Design de interfaces
+- Engenharia de software
 
 ---
 
-"> Objetivo"
+📚 Atualmente estudando
 
-«Aprender. Construir. Evoluir.»
+C · Python · HTML · CSS · Git · Figma
 
-Construir uma carreira sólida na área de tecnologia, desenvolvendo minhas habilidades em programação e criando soluções que unam tecnologia, lógica e criatividade.
+Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para transformar ideias em aplicações funcionais.
 
 ---
 
-<div align="center">"Code • Learn • Create"
+🎯 Meu objetivo
 
-<br>Jonathan Estevão — @TrasherSung
+Construir uma carreira na área de tecnologia, evoluindo como desenvolvedor e criando soluções que unam código, criatividade e tecnologia.
 
-</div>
+---
+
+🌐 Onde me encontrar
+
+LinkedIn:
+www.linkedin.com/in/jonathanestevao
+
+GitHub:
+www.github.com/jonathanestevao
+
+---
+
+<p align="center">
+  <strong>💻 Code. Learn. Create. Evolve.</strong>
+</p>
