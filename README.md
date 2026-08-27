@@ -77,6 +77,9 @@ www.linkedin.com/in/jonathanestevao
 GitHub:
 www.github.com/jonathanestevao
 
+DEV.to
+www.dev.to/jonathanestevao
+
 ---
 
 <p align="center">
