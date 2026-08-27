@@ -1,18 +1,16 @@
-👋 Olá, eu sou Jonathan Estevão
+  # Jonathan Estevão
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-«Transformando ideias em código e aprendizado em soluções.»
-
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou construindo minha experiência através de projetos acadêmicos e pessoais, explorando diferentes áreas da programação e do desenvolvimento web.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), gosto de tecnologia e desenvolvimento de software. Atualmente, estou construindo minha experiência através de projetos acadêmicos e pessoais, explorando diferentes áreas da programação e de desenvolvimento web.
 
 ---
 
-🚀 Sobre mim
+  Sobre mim:
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-💡 Interessado em programação, desenvolvimento web e tecnologia
+💡 Interessado em programação, Back-End e tecnologia
 
 🧠 Sempre buscando aprimorar minha lógica e resolução de problemas
 
@@ -78,7 +76,7 @@ LinkedIn:
 www.linkedin.com/in/jonathanestevao
 
 GitHub:
-github.com/TrasherSung
+www.github.com/jonathanestevao
 
 ---
 
